@@ -1,5 +1,6 @@
 # Figma-Make-a-thon
-ryan + eric
+Submission by Ryan + Eric
+Ended up winning 1st
 ## Inspiration
 We (Eric and Ryan) have had some crazy issues using laundry spaces in Waterloo. From flooded washers to waiting for over an hour for a free dryer at 3 AM, we've experienced it all. Because of this trauma, we really wanted to make an app that solves our issues. Doing laundry is such a mundane, boring, and oftentimes a time-wasting task, especially for first years. With our app, we "gamified" the chore of laundry, turning it into an interactive, community-based platform to improve communication, and most importantly save time.
 ## What it does
